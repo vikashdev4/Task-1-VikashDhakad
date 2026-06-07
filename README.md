@@ -1,20 +1,21 @@
 # 🎉 TechFest 2026 Dashboard
 
-A modern and responsive event management dashboard built using **HTML, CSS, and JavaScript**. This project showcases a college TechFest website with event details, registration form, countdown timer, statistics section, dark mode, and responsive design.
+🔗 **Live Demo:** https://vikashdev4.github.io/DecodeLabs-Internship/
+
+A modern and responsive event management dashboard built using **HTML, CSS, and JavaScript**. This project showcases a college TechFest website with event details, countdown timer, registration form, dark mode, event schedule, and responsive design.
 
 ## 🚀 Features
 
 * Responsive Navigation Bar
-* Hero Section with Event Information
 * Live Countdown Timer
+* Dark Mode Toggle
 * Event Statistics Dashboard
 * Upcoming Events Section
+* Registration Form Validation
 * Event Schedule Table
-* Registration Form with Validation
-* Organizer Information Section
-* Dark Mode Toggle
+* Organizer Details Section
 * Smooth Scrolling Navigation
-* Mobile-Friendly Responsive Design
+* Mobile-Friendly Design
 
 ## 🛠️ Technologies Used
 
@@ -22,51 +23,28 @@ A modern and responsive event management dashboard built using **HTML, CSS, and 
 * CSS3
 * JavaScript (ES6)
 
+## 🌐 Live Demo
+
+https://vikashdev4.github.io/DecodeLabs-Internship/
+
 ## 📂 Project Structure
 
 ```text
-TechFest-2026-Dashboard/
-│
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 ```
 
-## 📸 Dashboard Sections
-
-* Home
-* Events
-* Schedule
-* Registration
-* Organizer Details
-* Contact/Footer
-
-## ⚙️ Functionality
-
-### Countdown Timer
-
-Displays the remaining time until the TechFest event starts.
-
-### Form Validation
-
-Checks whether all registration fields are filled before submission.
-
-### Dark Mode
-
-Allows users to switch between light and dark themes.
-
 ## 📱 Responsive Design
 
-The dashboard is fully responsive and works smoothly on:
+Works seamlessly on:
 
 * Desktop
 * Tablet
 * Mobile Devices
 
 ## 🎯 Learning Outcomes
-
-Through this project, I practiced:
 
 * Semantic HTML
 * CSS Flexbox & Grid
@@ -82,18 +60,12 @@ Through this project, I practiced:
 
 B.Tech Mathematics & Computing
 
-## 🔗 GitHub Repository
-
-https://github.com/vikashdev4/DecodeLabs-Internship
+GitHub: https://github.com/vikashdev4
 
 ## ⭐ Future Improvements
 
 * Backend Integration
 * Database Connectivity
 * User Authentication
-* Online Payment System
+* Online Registration Database
 * Admin Dashboard
-
----
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
