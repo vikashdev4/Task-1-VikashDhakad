@@ -1,6 +1,6 @@
 # 🎉 TechFest 2026 Dashboard
 
-🔗 **Live Demo:** https://vikashdev4.github.io/DecodeLabs_Internship_project_1/
+🔗 **Live Demo:** https://vikashdev4.github.io/Task-1-VikashDhakad/
 
 A modern and responsive event management dashboard built using **HTML, CSS, and JavaScript**. This project showcases a college TechFest website with event details, countdown timer, registration form, dark mode, event schedule, and responsive design.
 
@@ -25,7 +25,7 @@ A modern and responsive event management dashboard built using **HTML, CSS, and 
 
 ## 🌐 Live Demo
 
-https://vikashdev4.github.io/DecodeLabs_Internship_project_1/
+https://vikashdev4.github.io/Task-1-VikashDhakad/
 
 ## 📂 Project Structure
 
